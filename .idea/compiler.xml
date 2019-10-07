@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yaolong-security-app" />
+        <module name="yaolong-security-core" />
+        <module name="yaolong-security-borowser" />
+        <module name="yaolong-security-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yaolong-security" target="1.8" />
+      <module name="yaolong-security-app" target="1.8" />
+      <module name="yaolong-security-borowser" target="1.8" />
+      <module name="yaolong-security-core" target="1.8" />
+      <module name="yaolong-security-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

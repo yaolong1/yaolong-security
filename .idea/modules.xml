@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yaolong-security.iml" filepath="$PROJECT_DIR$/yaolong-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaolong-security-app/yaolong-security-app.iml" filepath="$PROJECT_DIR$/yaolong-security-app/yaolong-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaolong-security-browser/yaolong-security-borowser.iml" filepath="$PROJECT_DIR$/yaolong-security-browser/yaolong-security-borowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaolong-security-core/yaolong-security-core.iml" filepath="$PROJECT_DIR$/yaolong-security-core/yaolong-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaolong-security-demo/yaolong-security-demo.iml" filepath="$PROJECT_DIR$/yaolong-security-demo/yaolong-security-demo.iml" />
+    </modules>
+  </component>
+</project>
